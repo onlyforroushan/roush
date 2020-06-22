@@ -1,7 +1,6 @@
 #!/usr/bin/ksh
 #===============================================================
 # Name : deployHotfix
-# Programmer: Andre Oliveira
 # Date : 2016/08/08
 # Purpose : Used to deploy HFs / Mark as Deployed in non clustered environment
 #
